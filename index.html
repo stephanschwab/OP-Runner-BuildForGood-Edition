@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>OP Runner — BuildForGood</title>
+  <meta name="theme-color" content="#FF1A1A">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="wrap">
+    <header class="top">
+      <h1>OP Runner</h1>
+      <p>Run, jump, collect OP tokens. Avoid obstacles. Bonuses: Shield, Double Jump, RetroPGF Boost.</p>
+    </header>
+
+    <section class="panel">
+      <div class="info">
+        <span>Score: <b id="score">0</b></span>
+        <span>Best: <b id="best">0</b></span>
+        <span>Level: <b id="level">1</b></span>
+        <span class="tips">Press <b>Space</b> / <b>Tap</b> to jump</span>
+      </div>
+      <button id="restart" class="btn" hidden>Restart</button>
+    </section>
+
+    <section class="game">
+      <canvas id="game" width="960" height="420" aria-label="OP Runner canvas"></canvas>
+    </section>
+
+    <section class="legend">
+      <div class="pill"><span class="ico shield"></span>Shield</div>
+      <div class="pill"><span class="ico double"></span>Double Jump</div>
+      <div class="pill"><span class="ico boost"></span>RetroPGF Boost</div>
+    </section>
+
+    <footer class="foot">
+      <small>BuildForGood • Optimism • RetroPGF8</small>
+    </footer>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
