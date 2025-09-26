@@ -1,15 +1,11 @@
 # OP Runner — BuildForGood
+![OP Runner screenshot](OP-Runner.png)
+![OP Runner 2 screenshot](OP-Runner2.png)
+![OP Runner 3 screenshot](OP-Runner3.png)
 
-Simple, pretty, and ready-to-host HTML5 canvas runner in Optimism style.
+Simple, pretty and ready-to-host HTML5 canvas runner in Optimism's style.
 
-## How to run locally
-Just open `index.html` in a modern browser.
 
-## Deploy to GitHub Pages
-1. Create a new repo (e.g., `op-runner`).
-2. Upload these files (`index.html`, `styles.css`, `script.js`).
-3. In repo Settings → Pages → Deploy from `main` / root.
-4. Wait a minute, your game will be live at `https://<you>.github.io/op-runner/`.
 
 ## Controls
 - **Jump:** Space / Up / W or tap on mobile.
