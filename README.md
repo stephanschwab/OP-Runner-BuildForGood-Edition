@@ -6,17 +6,15 @@ Run, jump, collect OP tokens, avoid obstacles, and power up with RetroPGF Boost.
 ---
 
 ## 🎮 Play online
-👉 [Play OP Runner on GitHub Pages](https://stepbystepNadyaOp.github.io/OP-Runner-BuildForGood-Edition/)
+👉 [Play OP Runner on GitHub Pages](https://https://stephanschwab.github.io/OP-Runner-BuildForGood-Edition//)
 
 ---
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="Op-Runner.png" width="250">
-  <img src="Op-Runner2.png" width="250">
-  <img src="Op-Runner3.png" width="250">
-</p>
+![OP Runner screenshot](OP-Runner.png)
+![OP Runner 2 screenshot](OP-Runner2.png)
+![OP Runner 3 screenshot](OP-Runner3.png)
 
 ---
 
