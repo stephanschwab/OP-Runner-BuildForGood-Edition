@@ -40,3 +40,11 @@ Run, jump, collect OP tokens, avoid obstacles, and power up with RetroPGF Boost.
 
 ## 📜 License
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+## 🌍 BuildForGood Ecosystem  
+This project is part of the BuildForGood Ecosystem for Optimism.  
+
+📖 Books & Articles • 🕹 Games • 🖼 NFTs & Memes • 🌍 Onchain Artifacts • 🎥 Media  
+
+🔗 Explore the full ecosystem: [BuildForGood Ecosystem on Optimism Atlas](https://atlas.optimism.io/profile/organizations/BuildForGood%20Ecosystem)
+---
