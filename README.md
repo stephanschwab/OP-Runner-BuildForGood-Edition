@@ -1,5 +1,5 @@
 # OP Runner — BuildForGood Edition
-📌 This project is part of the BuildForGood ecosystem — a multi-project public goods initiative for Optimism.  
+📌 **This project is part of the BuildForGood ecosystem — a multi-project public goods initiative for Optimism**.  
 
 Simple, lightweight, open-source HTML5 canvas runner in Optimism’s style.  
 Run, jump, collect OP tokens, avoid obstacles, and power up with RetroPGF Boost.  
@@ -42,7 +42,7 @@ Run, jump, collect OP tokens, avoid obstacles, and power up with RetroPGF Boost.
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ## 🌍 BuildForGood Ecosystem  
-This project is part of the BuildForGood Ecosystem for Optimism.  
+**This project is part of the BuildForGood Ecosystem for Optimism**.  
 
 📖 Books & Articles • 🕹 Games • 🖼 NFTs & Memes • 🌍 Onchain Artifacts • 🎥 Media  
 
